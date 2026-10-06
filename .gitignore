@@ -1,0 +1,13 @@
+# Configuración local de editores y herramientas
+.claude/
+.vscode/
+.idea/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales
+*.tmp
+*.log
